@@ -7,11 +7,4 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=oualidkesouati&theme=react )
 
-<br>
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=oualidkesouati&theme=react )
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=oualidkesouati&theme=react)
-<br>
-<br>
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ilyasfarkhane-dev&theme=react)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ilyasfarkhane-dev&theme=react&utcOffset=8)
-<br>
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=oualidkesouati&theme=dark)
