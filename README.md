@@ -3,6 +3,7 @@
 **Full Stack Web Developer | Full Stack Mobile Developer | UI/UX Designer | Flutter Developer**
 <br><br>
 [![My Skills](https://skillicons.dev/icons?i=flutter,androidstudio,java,angular,dart,laravel,linux,py,spring,idea,docker,dotnet,github,git,html,css,js,jquery,tailwind,bootstrap,figma,ai,postman,vite,visualstudio,vscode,eclipse,firebase,stackoverflow,c,cpp,mysql,&perline=12)](https://skillicons.dev)
+<br><br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=oualidkesouati&theme=whatsapp-dark)](https://git.io/streak-stats)
 <br>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ilyasfarkhane-dev&theme=react )
