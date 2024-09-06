@@ -3,6 +3,8 @@
 **Full Stack Web Developer | Full Stack Mobile Developer | UI/UX Designer | Flutter Developer**
 <br><br>
 [![My Skills](https://skillicons.dev/icons?i=flutter,androidstudio,java,angular,dart,laravel,linux,py,spring,idea,docker,dotnet,github,git,html,css,js,jquery,tailwind,bootstrap,figma,ai,postman,vite,visualstudio,vscode,eclipse,firebase,stackoverflow,c,cpp,mysql,&perline=12)](https://skillicons.dev)
+<br><br>
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=oualidkesouati&theme=react )
 
 <br>
